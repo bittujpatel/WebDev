@@ -19,7 +19,7 @@ function searchGiphy( searchQuery ) {
 	GiphyAJAXCall.send();
 }
 
-searchGiphy( "cats" );
+searchGiphy( "srk" );
 
 
 
